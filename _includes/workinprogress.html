@@ -1,0 +1,9 @@
+**Work in progress!**
+
+{% for item in site.pages %}
+  {% if item.title == "CV" %}
+    {% assign link = item.permalink %}
+  {% endif %}
+{% endfor %}
+
+Meanwhile, you can <a href="{{ link }}">view my CV</a>.
