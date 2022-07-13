@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-06-19
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I am at [CVPR2022](https://cvpr2022.thecvf.com/), New Orleans, LA, from June 19th to 24th.

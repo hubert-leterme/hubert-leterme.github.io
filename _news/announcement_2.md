@@ -1,31 +1,18 @@
 ---
+name: talk_rutgers
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Talk at Rutgers University, NJ. Video available!
+date: 2022-06-29 14:00:00-0000
+youtubeId: ENAktoBzjJs
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Back from CVPR in New Orleans, I had the pleasure to visit [Yassine Laguel](https://yassine-laguel.github.io/) at [Rutgers Business School](https://www.business.rutgers.edu/) in New Brunswick, NJ. I gave a talk about **shift invariance of feature extractors in convolutional neural networks**.
 
-***
+### Abstract
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+When trained on natural image datasets, convolutional neural networks (CNNs) tend to learn first-layer parameters that closely resemble oriented Gabor filters. By leveraging the properties of discrete Gabor-like convolutions, we provide a shift invariance measure for the first max pooling hidden layer. To support our theoretical results, we build a mathematical twin implementing the dual-tree complex wavelet packet transform, a particular case of discrete Gabor-like decomposition with perfect reconstruction properties. We discovered that replacing the max pooling layer by a more stable modulus operator leads to increased predictive power, when trained on ImageNet.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+### Video
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+{% include youtubePlayer.html id=page.youtubeId %}
