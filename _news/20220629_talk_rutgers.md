@@ -1,7 +1,7 @@
 ---
 name: talk_rutgers
 layout: post
-title: Talk at Rutgers University, NJ. Video available!
+title: Talk at Rutgers University, New Jersey. Video available!
 date: 2022-06-29 14:00:00-0000
 youtubeId: ENAktoBzjJs
 inline: false

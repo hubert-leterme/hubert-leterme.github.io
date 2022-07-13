@@ -1,7 +1,0 @@
----
-layout: post
-date: 2022-06-19
-inline: true
----
-
-I am at [CVPR2022](https://cvpr2022.thecvf.com/), New Orleans, LA, from June 19th to 24th.
