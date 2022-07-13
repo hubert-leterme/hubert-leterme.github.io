@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
-subtitle: <a href='https://www.univ-grenoble-alpes.fr/english/'>Université Grenoble Alpes</a>, <a href='https://team.inria.fr/thoth/'>Inria</a>, <a href='https://www-ljk.imag.fr/?lang=en/'>Laboratoire Jean Kuntzmann</a>
+subtitle: <a href='https://www.univ-grenoble-alpes.fr/english/'>Université Grenoble Alpes</a>, <a href='https://team.inria.fr/thoth/'>Inria (Thoth team)</a>, <a href='https://www-ljk.imag.fr/?lang=en/'>Laboratoire Jean Kuntzmann</a>
 
 profile:
   align: right
@@ -20,4 +20,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD candidate at the University of Grenoble Alpes and Inria, supervised by [Valérie Perrier](https://membres-ljk.imag.fr/Valerie.Perrier), [Karteek Alahari](https://lear.inrialpes.fr/people/alahari), and [Kévin Polisano](https://www.kevinpolisano.com). My research lies at the intersection between **computer vision** and **image processing**, with a focus on convolutional neural networks, wavelets and stochastic signal processing.
 
-Before my PhD, I received an engineering degree (MSc) from CentraleSupelec, University of Paris-Saclay, with a focus on industrial engineering, supply chain management, and operations research. After a few years working in the industry, including a two-year experience in Sweden, I decided to take a 180 degree turn and to embark in the research adventure. Which brought me to Grenoble in 2018. There, I received a MSc degree in industrial and applied mathematics from the University of Grenoble Alpes and Grenoble INP Institute of Technology.
+Before my PhD, I received an engineering degree (MSc) from [CentraleSupelec, University of Paris-Saclay](https://www.centralesupelec.fr/en), with a focus on industrial engineering, supply chain management, and operations research. After a few years working in the industry, including a two-year experience in Sweden, I decided to take a 180 degree turn and to embark in the research adventure. This brought me to Grenoble in 2018, where I received a MSc degree in industrial and applied mathematics from the University of Grenoble Alpes and [Grenoble INP Institute of Technology](https://www.grenoble-inp.fr/en).
