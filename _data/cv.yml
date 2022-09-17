@@ -17,6 +17,6 @@
       year: 09/2021
       link: talk_orasis
     - title: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering
-      institution: Graph Wavelet Reading Group, Université Grenoble Alpes, France (virtual)
+      institution: <a href="https://www.kevinpolisano.com/tutoriels/groupe-de-lecture-sur-lanalyse-de-graphes-par-ondelettes/">Graph Wavelet Reading Group</a>, Université Grenoble Alpes, France (virtual)
       description: Paper presentation based on M. Defferrard, X. Bresson, and P. Vandergheynst, “Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering,” in NeurIPS, 2016
       year: 07/2020
