@@ -1,4 +1,22 @@
-- title: PDF version available
-  type: list
+- title: Talks
+  category: talks
+  type: time_table
   contents:
-    Online CV coming soon.
+    - title: How Shift Invariant Are Feature Extractors in CNNs?
+      institution: Rutgers University, New Jersey, USA
+      year: 06/2022
+      link: talk_rutgers
+    - title: Sparsifying Convolutional Layers with Dual-Tree Wavelet Packets
+      institution: <a href="https://collabotics2021.github.io/index.html">International Collaborative Workshop of RUB-UGA-UT</a> (virtual)
+      year: 11/2021
+    - title: Modélisation Parcimonieuse de CNNs Avec Des Paquets d’Ondelettes Dual-Tree
+      institution: <a href="https://orasis2021.sciencesconf.org/">ORASIS</a>, Lake Saint-Ferreol, France
+      description:
+        - French-speaking Workshop for Young Researchers in Computer Vision
+        - See Publications for the related paper
+      year: 09/2021
+      link: talk_orasis
+    - title: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering
+      institution: Graph Wavelet Reading Group, Université Grenoble Alpes, France (virtual)
+      description: Paper presentation based on M. Defferrard, X. Bresson, and P. Vandergheynst, “Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering,” in NeurIPS, 2016
+      year: 07/2020

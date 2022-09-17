@@ -11,7 +11,16 @@
           {% endif %}
           <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
             {% if content.title %}
-            <h6 class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</h6>
+              {% if content.link %}
+                {% for item in site.news %}
+                  {% if item.name == content.link %}
+                    {% assign url = item.url %}
+                  {% endif %}
+                {% endfor %}
+                <h6 class="title font-weight-bold ml-1 ml-md-4"><a href="{{ url }}">{{content.title}}</a></h6>
+              {% else %}
+                <h6 class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</h6>
+              {% endif %}
             {% endif %}
             {% if content.institution %}
             <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{content.institution}}</h6>
