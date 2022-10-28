@@ -1,7 +1,7 @@
 ---
 name: talk_orasis
 layout: post
-title: Talk at ORASIS 2021 – French-speaking Workshop for Young Researchers in Computer Vision
+title: Talk at ORASIS 2021 – French-speaking workshop for young researchers in computer vision.
 date: 2021-09-16 14:00:00-0000
 youtubeId: HpwW5wFcZ-g
 inline: false
