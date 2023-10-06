@@ -80,22 +80,35 @@
   preview={wave-mechanics.gif}
 }
 
-@article{Leterme2022a,
+@phdthesis{Leterme2023b,
+  abbr={Doctoral Thesis},
+  type = {Doctoral Thesis},
+  title = {A {{Complex Wavelet Approach}} for {{Shift-Invariant Convolutional Neural Networks}}},
+  author = {Leterme, Hubert},
+  year = {2023},
+  month = jun,
+  abstract = {Despite significant advancements in computer vision over the past decade, convolutional neural networks (CNNs) still suffer from a lack of mathematical understanding. In particular, stability properties with respect to small transformations such as translations, rotations, scaling or deformations are only partially understood. While there is a broad literature on this topic, some gaps remain, specifically with regard to the combined effect of convolution and max pooling layers in producing near shift-invariant feature representations. This property is of utmost importance for classification, since two shifted versions of a single input image are expected to receive the same label. It is well-known that subsampled convolutions with band-pass filters are prone to producing unstable image representations when inputs are shifted by a few pixels. The first contribution of this thesis consists in proving that a nonlinear max pooling operator can partially restore shift invariance. By applying results from the wavelet theory, and adopting a probabilistic point of view, we reveal a similarity between the max pooling of real-valued convolutions, as implemented in conventional architectures, and the modulus of complex-valued convolutions, for which a measure of shift invariance is established. However, for specific filter frequencies, this similarity is lost, and CNNs become unstable to translations. This phenomenon, known as aliasing, can be avoided by employing additional low-pass filters in strategic locations of the network architecture, as several authors have done in recent years. While their methods effectively increase both shift invariance and prediction accuracy, they come at the cost of significant loss of high-frequency information. As a second contribution, we present a novel antialiasing method which, unlike previous methods, preserves this information. Relying on our theoretical study, the key idea is to exploit the properties of complex convolutions to guarantee near-shift invariance for any filter frequency. By adding an imaginary part to high-frequency kernels and replacing the max pooling layer with a simple modulus operator, we empirically evidence an increase in the network's stability and a lower error rate compared to previous approaches based on low-pass filtering. In conclusion, the aim of this thesis is twofold: improving the mathematical understanding of CNNs from the perspective of shift invariance, and improving the tradeoff between stability and information preserving, based on our theoretical contribution which is grounded in wavelet theory. Our findings thus have the potential to positively impact various applications of computer vision, especially in fields that require theoretical guarantees.},
+  langid = {english},
+  school = {Universit\'e Grenoble Alpes},
+  pdf = {Leterme_2023_A Complex Wavelet Approach for Shift-Invariant Convolutional Neural Networks.pdf},
+  selected = {true}
+}
+
+@article{Leterme2023a,
   abbr={Preprint},
-  title = {From {{CNNs}} to {{Shift-Invariant Twin Wavelet Models}}},
+  title = {From {{CNNs}} to {{Shift-Invariant Twin Models Based}} on {{Complex Wavelets}}},
   author = {Leterme, Hubert and Polisano, K{\'e}vin and Perrier, Val{\'e}rie and Alahari, Karteek},
-  year = {2022},
-  month = dec,
+  year = {2023},
+  month = mar,
   njournal = {arXiv:2212.00394},
   eprint = {2212.00394},
-  eprinttype = {arxiv},
+  primaryclass = {cs, eess, stat},
   doi = {10.48550/arXiv.2212.00394},
-  abstract = {We propose a novel antialiasing method to increase shift invariance in convolutional neural networks (CNNs). More precisely, we replace the conventional combination "real-valued convolutions + max pooling" (RMax) by "complex-valued convolutions + modulus" (CMod), which produce stable feature representations for band-pass filters with well-defined orientations. In a recent work, we proved that, for such filters, the two operators yield similar outputs. Therefore, CMod can be viewed as a stable alternative to RMax. To separate band-pass filters from other freely-trained kernels, in this paper, we designed a "twin" architecture based on the dual-tree complex wavelet packet transform, which generates similar outputs as standard CNNs with fewer trainable parameters. In addition to improving stability to small shifts, our experiments on AlexNet and ResNet showed increased prediction accuracy on natural image datasets such as ImageNet and CIFAR10. Furthermore, our approach outperformed recent antialiasing methods based on low-pass filtering by preserving high-frequency information, while reducing memory usage.},
-  archiveprefix = {arXiv},
-  keywords = {_tablet},
-  file = {/home/letermeh/Cloud_UGA/Documents/Zotero/storage/L7HKAL3T/Leterme et al_2022_From CNNs to Shift-Invariant Twin Wavelet Models.pdf;/home/letermeh/Cloud_UGA/Documents/Zotero/storage/MTNKFSYZ/2212.html},
+  abstract = {We propose a novel antialiasing method to increase shift invariance in convolutional neural networks (CNNs). More precisely, we replace the conventional combination "real-valued convolutions + max pooling" (\$\textbackslash mathbb R\$Max) by "complex-valued convolutions + modulus" (\$\textbackslash mathbb C\$Mod), which produce stable feature representations for band-pass filters with well-defined orientations. In a recent work, we proved that, for such filters, the two operators yield similar outputs. Therefore, \$\textbackslash mathbb C\$Mod can be viewed as a stable alternative to \$\textbackslash mathbb R\$Max. To separate band-pass filters from other freely-trained kernels, in this paper, we designed a "twin" architecture based on the dual-tree complex wavelet packet transform, which generates similar outputs as standard CNNs with fewer trainable parameters. In addition to improving stability to small shifts, our experiments on AlexNet and ResNet showed increased prediction accuracy on natural image datasets such as ImageNet and CIFAR10. Furthermore, our approach outperformed recent antialiasing methods based on low-pass filtering by preserving high-frequency information, while reducing memory usage.},
+  archiveprefix = {arxiv},
+  file = {/home/letermeh/OneDrive/boox/zotero/Leterme et al_2023_From CNNs to Shift-Invariant Twin Models Based on Complex Wavelets3.pdf;/home/letermeh/Zotero/storage/MTNKFSYZ/2212.html},
   html = {https://arxiv.org/abs/2212.00394},
-  pdf = {Leterme et al_2022_From CNNs to Shift-Invariant Twin Wavelet Models.pdf},
+  pdf = {Leterme et al_2023_From CNNs to Shift-Invariant Twin Models Based on Complex Wavelets.pdf},
   selected = {true}
 }
 
