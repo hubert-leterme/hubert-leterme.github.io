@@ -10,7 +10,7 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: >
     <p>Postdoctoral researcher</p>
-    <p>ENSICAEN, GREYC research institute</p>
+    <p>Laboratoire GREYC, ENSICAEN</p>
     <p>Caen, France</p>
 
 news: true  # includes a list of news items
