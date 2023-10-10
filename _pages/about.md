@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Postdoctoral researcher</p>
     <p>Laboratoire GREYC, ENSICAEN</p>
-    <p>Caen, France</p>
+    <p>14000 Caen, France</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
