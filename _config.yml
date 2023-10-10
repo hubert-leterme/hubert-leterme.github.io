@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Hubert
 last_name: Leterme
-email: hubert (dot) leterme (at) univ-grenoble-alpes.fr
+email: hubert (dot) leterme (at) unicean.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -57,7 +57,7 @@ github_username: hubert-leterme # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: hubertleterme # your LinkedIn user name
-scholar_userid: huert.leterme@univ-grenoble-alpes.fr # your Google Scholar ID
+scholar_userid: huert.leterme@unicaen.fr # your Google Scholar ID
 orcid_id: 0000-0002-4840-5299 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -71,7 +71,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Feel free to email me at hubert (dot) leterme (at) univ-grenoble-alpes.fr.
+  Feel free to email me at hubert (dot) leterme (at) unicaen.fr.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
