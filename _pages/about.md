@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.greyc.fr/en/home/'>ENSICAEN (GREYC research institute, Image team)</a>, <a href='https://www.cosmostat.org/'>CEA Paris-Saclay (Astrophysics Division, CosmoStat team)</a>
+subtitle: <a href='https://www.greyc.fr/en/home/'>Ensicaen (GREYC research institute, Image team)</a>, <a href='https://www.cosmostat.org/'>CEA Paris-Saclay (Astrophysics Division, CosmoStat team)</a>
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: >
     <p>Postdoctoral researcher</p>
-    <p>Laboratoire GREYC, ENSICAEN</p>
+    <p>Laboratoire GREYC, Ensicaen</p>
     <p>14000 Caen, France</p>
 
 news: true  # includes a list of news items
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher in astrostatistics at <a href='https://www.ensicaen.fr/?lang=en'>ENSICAEN</a> (Caen, France) and <a href='https://www.cea.fr/english'>CEA Paris-Saclay</a> (Paris metropolitan area, France), under the supervision of <a href='https://fadili.users.greyc.fr/'>Jalal Fadili</a> (ENSICAEN) and <a href='https://jstarck.cosmostat.org/'>Jean-Luc Starck</a> (CEA). My research is part of the [the TOSCA project](https://tosca.cosmostat.org/), focusing on weak lensing statistics for cosmology, which explores the synergies between Euclid and SKAO.
+I am a postdoctoral researcher in astrostatistics at <a href='https://www.Ensicaen.fr/?lang=en'>Ensicaen</a> (Caen, France) and <a href='https://www.cea.fr/english'>CEA Paris-Saclay</a> (Paris metropolitan area, France), under the supervision of <a href='https://fadili.users.greyc.fr/'>Jalal Fadili</a> (Ensicaen) and <a href='https://jstarck.cosmostat.org/'>Jean-Luc Starck</a> (CEA). My research is part of the [the TOSCA project](https://tosca.cosmostat.org/), focusing on weak lensing statistics for cosmology, which explores the synergies between Euclid and SKAO.
 <!-- TOSCA is a collaboration between three French laboratories (the Astrophysics Division at CEA Paris-Saclay, the GREYC research institute in Caen and the Nice-Côte d'Azur Observatory) and the University of Geneva (Switzerland). -->
 My work will contribute to the reconstruction of mass maps from radio shear measurements using deep learning techniques, with a specific emphasis on uncertainty quantification.
 
