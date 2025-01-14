@@ -2,6 +2,13 @@
   category: talks
   type: time_table
   contents:
+    - title: Workshop on Advances in Learning-Based Image Restoration
+      institution: Institut Henri-Poincaré, Paris, France
+      year: 12/2024
+      link: talk_iasis
+      description:
+        Oral presentation (in French), "A plug-and-play approach with conformal predictions for weak lensing mass mapping"
+  
     - title: <a href=https://www.icms.org.uk/UQIPI24>UQIPI24 Workshop</a>
       institution: International Centre for Mathematical Sciences (ICMS), Edinburgh, UK
       year: 09/2024
